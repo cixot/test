@@ -4,3 +4,4 @@ this is sparta!
 and this is the end!
 whazzaa! ddd
 this is github!
+plan configuration save successfully
