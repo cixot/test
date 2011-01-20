@@ -1,4 +1,5 @@
 this is... madness!
+<<<<<<< HEAD
 today we will dine in hell!
 this is sparta!
 branched!
@@ -75,4 +76,11 @@ VVV
 VXX
 VXX
 333
+=======
+today we will dine!
+this is myBranch!
+ccc
+aaa
+aaa
+>>>>>>> myBranch
 333
