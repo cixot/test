@@ -9,6 +9,7 @@ whazzaa! ddd
 this is github!
 plan configuration save successfully
 asdasd
+<<<<<<< HEAD
 aaa
 aaa
 aaa
@@ -89,4 +90,18 @@ aaa
 333
 333
 333
+=======
+tyutyu
+lets trigger this build
+this is another sparta!
+yet another sparta!
+111111
+222222
+glory to the many!
+bbbb
+ccc
+ccc
+ccc
+aaa
+>>>>>>> secondBranch
 333
